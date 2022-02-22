@@ -7,7 +7,7 @@
 
 NetworkAgent::NetworkAgent()
 {
-		std::cout << "Inicializando networking\n";
+		std::cout << "initializing networking\n";
 		initNetworking();
 }
 
