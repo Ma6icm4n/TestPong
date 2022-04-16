@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.vs/TestPong/v16/Browse.VC.db
+.vs/TestPong/v16/Browse.VC.db-shm
+.vs/TestPong/v16/Browse.VC.db-wal
+.vs/TestPong/v16/Browse.VC.opendb
+.vs/TestPong/v16/ipch/AutoPCH/4807b87c4218806d/SCENE.ipch
